@@ -2,7 +2,7 @@
   "name": "Windows 10 LTSC",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "https://cloudflare.equipable.org/Projek01%20(Public%20Beta%20Revision%204.1).iso"
+    "VERSION": "10L"
   },
   "forwardPorts": [8006],  
   "portsAttributes": {
