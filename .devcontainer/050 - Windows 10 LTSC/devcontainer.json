@@ -2,7 +2,7 @@
   "name": "Windows 10 LTSC",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "https://cloudflare.equipable.org/Projek01%20(Public%20Beta%20Revision%204.1).isoEZc23OtX_8jJkER700wknRL045ePeR0HPfN4J0ebTmS-a2P0AHHWRoh1jskbnmGwouvRA/xnpc5ilf8d3kfda/Classic+7+%281.0%2C+Release+Preview%29.iso"
+    "VERSION": "https://download2273.mediafire.com/p2cidjyw03rgFaOYcbLdIqCn7YXigUKGR6y6p--0xvri4HctkiqLOAdTXjkEen6JcQroRvxg9ancDMHpRDKw_BVhHhfe0Sept0cy0DemAGQUgf9aJxNi_BHYE3dAeb3ZgQhhHXcmYlNfxxhAsjV4ODXizO0lJ-eXe4MnsoP8LRe8yw/3r1w6gf9lz7b1ej/Project+Luna+1.0.1+%28Final%29.isokbnmGwouvRA/xnpc5ilf8d3kfda/Classic+7+%281.0%2C+Release+Preview%29.iso"
   },
   "forwardPorts": [8006],  
   "portsAttributes": {
