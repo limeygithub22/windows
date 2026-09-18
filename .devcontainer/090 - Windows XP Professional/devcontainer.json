@@ -2,7 +2,7 @@
   "name": "Windows XP Professional",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "https://archive.org/download/reexperiencebuild8250/H_CPWMCA_EN_DV5%20%28build%208250%3B%20Milestone%204%29.iso"
+    "VERSION": "xp"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
